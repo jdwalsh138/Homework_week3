@@ -38,7 +38,7 @@ command to run if program contains helper info
 Contributors names and contact info
 
 ex. Jack Walsh 
-ex. [@JackWalsh](https://https://www.linkedin.com/in/jack-walsh-39b169167/)
+ex. [@JackWalsh](https://www.linkedin.com/in/jack-walsh-39b169167/)
 
 ## Version History
 
