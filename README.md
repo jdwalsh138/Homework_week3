@@ -8,6 +8,8 @@ This is a portfolio for Jack Walsh.
 
 ## Getting Started
 
+![Portfolio_Layout](https://github.com/jdwalsh138/Homework_week3/blob/main/portfolio.JPG)
+
 ### Dependencies
 
 https://jdwalsh138.github.io/Homework_week3/index.html
