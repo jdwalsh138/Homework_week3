@@ -10,13 +10,11 @@ This is a portfolio for Jack Walsh.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+https://jdwalsh138.github.io/Homework_week3/index.html
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+
 
 ### Executing program
 
@@ -37,8 +35,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Jack Walsh 
-ex. [@JackWalsh](https://www.linkedin.com/in/jack-walsh-39b169167/)
+@JackWalsh(https://www.linkedin.com/in/jack-walsh-39b169167/) - alt:mysteryredstyle@gmail.com
 
 ## Version History
 
@@ -50,7 +47,7 @@ ex. [@JackWalsh](https://www.linkedin.com/in/jack-walsh-39b169167/)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Jack Walsh.
 
 ## Acknowledgments
 
