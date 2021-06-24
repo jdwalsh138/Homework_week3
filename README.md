@@ -14,14 +14,18 @@ https://jdwalsh138.github.io/Homework_week3/index.html
 
 ### Installing
 
-
+Viewable on all platforms.
 
 ### Executing program
 
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+This portfolio executes the following..
+Navaigation Header with links to page indexs
+Links to developer code as part of portfolio
+Links to personal contacts.
+
 ```
 
 ## Help
